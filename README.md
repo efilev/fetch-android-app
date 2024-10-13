@@ -1,6 +1,6 @@
 # REST API and Sorting Exercise
 
-This application was developed using a popular open-source client, Retrofit, and Java. Each item in the JSON is a "user" for clarity.
+This application was developed using a popular open-source client, Retrofit, and Java. Retrofit can easily be used for both Kotlin and Java, making this a useful project template to convert to Kotlin and learn more about the language.
 
 ## Project Goals
 - Display all items sorted by listid
