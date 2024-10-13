@@ -8,7 +8,7 @@ This application was developed using a popular open-source client, Retrofit, and
 - Filter out items where “name” is null or “”
 
 ## Process
-1. Create listview
+1. Create listview and basic UI
 2. Add retrofit library. Add to ```libs.versions.toml```, then add to gradle build
 3. For the purpose of this project fitting the instruction, I used Android 14, API 34 and a Pixel 9 to display my example app. However, I normally would work on a lower API to allow for more users to have access (34 is only accessible by ~13% of users)
 5. Created API call interface that contains the get request and parses the JSON
